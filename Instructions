@@ -1,0 +1,15 @@
+1. Open android studio
+2. Select Configure
+3. Select Settings
+4. Select Version Control
+5. Select Git
+6. Enter C:\Temp\GitPortable\App\Git\cmd\git.exe into the 'Path to Git executable' field
+7. Press test. If it's not successful search c drive for git.exe and use the path to that instead
+8. Check out project from version control
+9. Choose Git
+10. Enter https://github.com/aidden93/KIT305_Assignment2.git as the repository URL
+11. Choose the directory you want the project to be stored in
+12. Press Clone
+
+This should be all you need to get set up.
+Make sure to perform a pull request every time you open the project to make sure you have the latest version of the files.
